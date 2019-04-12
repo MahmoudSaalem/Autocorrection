@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1526397194 source:d:\programs\code blocks\binarysearchtrees\bst.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BST.h"
+	"file.h"
+
+1526397194 d:\programs\code blocks\binarysearchtrees\bst.h
+
+1526396230 source:d:\programs\code blocks\binarysearchtrees\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BST.h"
+	"file.h"
+
+1526389282 d:\programs\code blocks\binarysearchtrees\file.h
+
+1526389274 source:d:\programs\code blocks\binarysearchtrees\file.c
+	<stdio.h>
+	<stdlib.h>
+	"BST.h"
+	"file.h"
+
+1527122615 source:c:\users\ayah soffar\desktop\binarysearchtrees\bst.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BST.h"
+	"file.h"
+
+1527120728 c:\users\ayah soffar\desktop\binarysearchtrees\bst.h
+
+1526389284 c:\users\ayah soffar\desktop\binarysearchtrees\file.h
+
+1527080776 source:c:\users\ayah soffar\desktop\binarysearchtrees\file.c
+	<stdio.h>
+	<stdlib.h>
+	"BST.h"
+	"file.h"
+
+1527122928 source:c:\users\ayah soffar\desktop\binarysearchtrees\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BST.h"
+	"file.h"
+
+1527185677 source:c:\users\mahmoud\desktop\new folder\bst.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BST.h"
+	"file.h"
+
+1527185249 c:\users\mahmoud\desktop\new folder\bst.h
+
+1527184755 c:\users\mahmoud\desktop\new folder\file.h
+
+1527185249 source:c:\users\mahmoud\desktop\new folder\file.c
+	<stdio.h>
+	<stdlib.h>
+	"BST.h"
+	"file.h"
+
+1527185140 source:c:\users\mahmoud\desktop\new folder\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BST.h"
+	"file.h"
+
+1527185677 source:c:\users\mahmoud\desktop\bst_[4643]_[4904]_[4909]\binarysearchtrees\bst.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BST.h"
+	"file.h"
+
+1527185249 c:\users\mahmoud\desktop\bst_[4643]_[4904]_[4909]\binarysearchtrees\bst.h
+
+1527184755 c:\users\mahmoud\desktop\bst_[4643]_[4904]_[4909]\binarysearchtrees\file.h
+
+1527185249 source:c:\users\mahmoud\desktop\bst_[4643]_[4904]_[4909]\binarysearchtrees\file.c
+	<stdio.h>
+	<stdlib.h>
+	"BST.h"
+	"file.h"
+
+1527185140 source:c:\users\mahmoud\desktop\bst_[4643]_[4904]_[4909]\binarysearchtrees\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BST.h"
+	"file.h"
+
